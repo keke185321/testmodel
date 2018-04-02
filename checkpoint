@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kliao/Project/testmodel/model.tfl.ckpt-1720"
+all_model_checkpoint_paths: "/home/kliao/Project/testmodel/model.tfl.ckpt-1720"
